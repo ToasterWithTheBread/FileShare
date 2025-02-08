@@ -9,4 +9,4 @@ directory it will be downloaded.
 
 # Running
 I just use Docker, I would recommend mounting the public folder somewhere so you can easily add files to it and
-whatnot.
+whatnot. Container does need to be restarted whenever you add a file unfortunately, just NextJS things.
